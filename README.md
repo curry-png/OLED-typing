@@ -11,7 +11,7 @@ Download and extract [Steelseries-OLED.zip](https://github.com/curry-png/SS-OLED
 ### Troubleshooting
 If it is laggy, try decreasing the `FPS` in `settings.json`.
 
-<sup>1</sup>The images can also be displayed in the console window by enabling `bDisplayInConsole` in `settings.json`, SS Engine not needed.
+<sup>1</sup>The images will be displayed in the console window if SS Engine is not found (can be enabled manually with `bDisplayInConsole` in `settings.json`).
 
 ## Features
 ### Typing Cat (Bongo Cat, but with a keyboard)
