@@ -1,13 +1,23 @@
-# OLED-typing (cat version)
+# Steelseries-OLED
+A collection of interactive functions and games designed to be displayed on the OLED screens of SteelSeries keyboards.
 
-## **WARNING:** I'm still working on it, and there may be bugs. 
-I am not liable for any damage or issues that occur while the program runs. It shouldn't cause any issues, but I make no promises.
- 
-## **Requirements** to minimise issues
-- Windows 10
-- you are using a Steelseries Apex 5/7/Pro (and TKLs) keyboard
-- There is a `coreProps.json` file in `C:\ProgramData\SteelSeries\SteelSeries Engine 3`
+## How to download
+Download and extract [Steelseries-OLED.zip](Steelseries-OLED.zip), then run `SS OLED.exe`.
 
-Note: antivirus software may block `keypress.exe` as it detects what keys you press. It is required for the app to work.
+### Requirements
+- **Windows 10/11**. Other OSs were not tested.
+- **Steelseries GG** is required for displaying to the OLED<sup>1</sup>.
 
-GLHF :D
+### Troubleshooting
+If it is laggy, try decreasing the `FPS` in `settings.json`.
+
+<sup>1</sup>The images can also be displayed in the console window by enabling `bDisplayInConsole` in `settings.json`, SS Engine not needed.
+
+## Features
+### Typing Cat (Bongo Cat, but with a keyboard)
+The cat types when you type... thats basically it.
+
+![Bongo Cat, but with a keyboard](repo-resources/Bongo_Cat.gif)
+
+### **[UNRELEASED]** The Chrome Dino Game
+Basically a simpler version of the [Chrome Dino Game](https://chromedino.com/).
