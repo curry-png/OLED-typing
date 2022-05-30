@@ -2,7 +2,7 @@
 A collection of interactive functions and games designed to be displayed on the OLED screens of SteelSeries keyboards.
 
 ## How to download
-Download and extract [Steelseries-OLED.zip](Steelseries-OLED.zip), then run `SS OLED.exe`.
+Download and extract [Steelseries-OLED.zip](https://github.com/curry-png/SS-OLED-App/raw/main/Steelseries-OLED.zip), then run `SS OLED.exe`.
 
 ### Requirements
 - **Windows 10/11**. Other OSs were not tested.
